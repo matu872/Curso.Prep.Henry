@@ -1,0 +1,43 @@
+variables:
+En js existen varios tipos de variables, todas se usan para guardar informacion en determinado momento, y poder usarlas cuando las necesitemos.
+Para poder definir una se hace de la siguiente manera
+var +nombre 
+tabmeien se le puede dar un valor
+var nombre = valor
+
+Tipo de varialbes strings: son del tipo cadena de texto que se definen entre comillas.
+Ejemplo.
+var nombre = 'Juanita';
+
+function:
+Son tipos de obejtos invocables, que mediante un conjunto de instrucciones, toma las variables y las modifica, calcula o cambia. Se invocan de la siguiente manera.
+function lalala () {}
+
+Argumentos de una funcion:
+Dentro de una funcion sus variables se podrian llamar argumentos, estos se declaran despues del nombre de la funcion entre parentesis, y separadeos por una coma(,) Ejemplo.
+function suma (numero1, numero2 ){
+    console.log ('el resultado de', numero1, '+', numero2 ,'es', numero1 + numero2)
+}
+Que se invoca de la siguiente manera 
+suma (1,2)
+y nos devuelve
+el resultado de la suma de 1 +2 es 3
+
+Return: se usa para detener la funcion y devolver el valor fuera de la funcion. Ejemplo
+function num(numero1){
+   return numero1/2
+}
+num (2)
+declaraciones IF:
+Evalua si algo es thrue o false, para avanzar o no en el codigo. Ejemplo
+function num(numero1){
+    if (numero1 >= 2){
+     return numero1/2
+    }
+    return false
+}
+
+en este caso si el numero es mayor o igual a dos la division se realiza, caso contrario arroja false.
+
+Valores booleanos:
+se le asigna como coontenido thrue o false se usan para almacenar informacion que unicamente pueda tener estos dos estados.
