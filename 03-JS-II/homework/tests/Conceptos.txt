@@ -1,0 +1,9 @@
+Conceptos 
+For:
+Es un sistema de bucle que se ejecuta una y otra vez hasta que se de una condicion determinada.
+&&:
+es un operador logico, equivalente a AND/ y, que devuelve true si ambas son true, y si solo uno es false devolvera false.
+||:
+es un operador logico equivalente a or/ o, que devuelve true si una o ambas son true, devuelve false si las dos son false.
+!:
+operador logico, equivalente a not/ no, devolvera el opuesto del valor booleano que corresponda.
