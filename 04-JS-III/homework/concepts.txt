@@ -1,0 +1,3 @@
+Conceptos:
+Array:
+un array es una coleccion de datos de distintos tipos, se pueden guardar datos tipo string, numeros o booleanos. y tantos elementos como sea necesario.
