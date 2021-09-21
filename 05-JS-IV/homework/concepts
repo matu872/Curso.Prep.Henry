@@ -1,0 +1,7 @@
+                                           conceptos:
+objetos: los objetos son una coleccion de propiedades, las cuales podemos usar y modificar.
+propiedades: las propiedades son las caracteristicas que tenemos dentro del objeto que estan asociadas a el,a las cuales se accede mediante una palabra clave, asociada a ese valor.
+metodos: los metodos guardados en los objetos, hacen referencia a las funciones que tiene dentro de el.
+bucle "for..in":es el bucle utilizado para "navegar" dentro de un objeto.
+notacion de puntos vs notacion de corchetes: la notacion con puntos, solo funciona con nombre de propiedades validos ("numero uno" daria un error, sin embargo numeroUno no daria el valor correcto).
+la notacion de corchetes nos permite acceder a la propiedad concualquier tipo de caracter.
